@@ -6,3 +6,4 @@ jupyter
 flask
 mlflow
 dvc
+xgboost 

@@ -4,6 +4,8 @@ matplotlib
 scikit-learn
 jupyter
 flask
+flask-session
 mlflow
 dvc
 xgboost 
+apache-airflow

@@ -4,9 +4,11 @@ matplotlib
 scikit-learn
 jupyter
 flask
+flask-session
 mlflow
 dvc
 xgboost 
+apache-airflow
 # testing packages
 
 pytest==7.1.3

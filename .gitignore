@@ -2,3 +2,4 @@ env
 logs
 DimondPricePrediction.*
 datasets
+mlruns
